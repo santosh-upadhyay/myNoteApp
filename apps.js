@@ -1,4 +1,4 @@
-console.log("note apps are ready bro");
+console.log("note apps are ready");
 
 shownote();
 let addBtn = document.getElementById("addBtn");
